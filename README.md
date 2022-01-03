@@ -110,5 +110,4 @@
 * [신입개발자 기술 면접](https://trello.com/b/BWtpfywH/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91)
 * [기술 면접시 자주 나오는 문제들](https://www.slideshare.net/agebreak/0119-ver-2013)
 * [넥슨 면접에서 듣게 되는 질문](https://www.bloter.net/newsView/blt201810160001)
-* [넥슨 면접에서 듣게 되는 질문](https://www.bloter.net/newsView/blt201810160001)
 * 테트리스 설계(클래스, 멤버 함수, 멤버 변수)
