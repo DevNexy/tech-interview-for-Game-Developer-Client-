@@ -80,6 +80,7 @@
 7. [보간법(Slerp, lerp)](https://blog.naver.com/gold_metal/221452400729)
 8. 코루틴과 Invoke
 9. 모바일을 위한 최적화 기법
+10. [벡터길이 제한 Clamp, ClampMagnitude](https://rank-brothers.com/591/unity-clamp-vector-magnitude/)
 
 # 🌘 네트워크/DB
 ***
