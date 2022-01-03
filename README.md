@@ -81,6 +81,7 @@
 8. 코루틴과 Invoke
 9. 모바일을 위한 최적화 기법
 10. [벡터길이 제한 Clamp, ClampMagnitude](https://rank-brothers.com/591/unity-clamp-vector-magnitude/)
+11. [오브젝트간 거리 비교 Distance, magnitude, sqrMagnitude](https://blog.naver.com/yoohee2018/221159368623)
 
 # 🌘 네트워크/DB
 ***
