@@ -50,10 +50,11 @@
 ***
 1. 상속(+다중 상속의 문제점)
 3. 인터페이스
-4. 리스트2
-5. 이벤트
-6. Delegate, Action
-7. 컬렉션
+4. 
+5. 코루틴/프로세스/스레드
+6. 가비지컬렉터
+7. Delegate, Action
+8. 컬렉션
 
 # 🌖 언어(C++)
 ***
@@ -61,11 +62,12 @@
 2. 오버로딩
 3. 오버라이딩
 4. static
-5. 가상함수
-6. friend 함수
-7. 가상소멸자를 사용하는 이유
-8. 추상클래스
-9. STL
+5. virtual
+6. abstract
+8. friend 함수
+9. 가상소멸자를 사용하는 이유
+10. 추상클래스
+11. STL
 
 # 🌗 Unity
 ***
@@ -75,7 +77,9 @@
 4. 충돌처리
 5. 오클루젼 컬링
 6. 레이캐스트
-7. 보간법(Slerp, lerp)
+7. [보간법(Slerp, lerp)](https://blog.naver.com/gold_metal/221452400729)
+8. 코루틴과 Invoke
+9. 모바일을 위한 최적화 기법
 
 # 🌘 네트워크/DB
 ***
@@ -105,5 +109,6 @@
 * [신입개발자, 포트폴리오에서 퇴사까지](https://analog-green.tistory.com/517#seek)
 * [신입개발자 기술 면접](https://trello.com/b/BWtpfywH/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91)
 * [기술 면접시 자주 나오는 문제들](https://www.slideshare.net/agebreak/0119-ver-2013)
+* [넥슨 면접에서 듣게 되는 질문](https://www.bloter.net/newsView/blt201810160001)
 * [넥슨 면접에서 듣게 되는 질문](https://www.bloter.net/newsView/blt201810160001)
 * 테트리스 설계(클래스, 멤버 함수, 멤버 변수)
