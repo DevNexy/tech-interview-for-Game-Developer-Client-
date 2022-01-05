@@ -82,7 +82,7 @@
 9. 모바일을 위한 최적화 기법
 10. [벡터길이 제한 Clamp, ClampMagnitude](https://rank-brothers.com/591/unity-clamp-vector-magnitude/)
 11. [오브젝트간 거리 비교 Distance, magnitude, sqrMagnitude](https://blog.naver.com/yoohee2018/221159368623)
-12. [스크립트 직렬화](https://everyday-devup.tistory.com/88)
+12. [스크립트 직렬화](https://everyday-devup.tistory.com/88) [UnityDocu](https://docs.unity3d.com/kr/2018.4/Manual/script-Serialization.html) 
 13. [직렬화 조건](https://rank-brothers.com/660/unity-serializefield/)
 14. [직렬화 후 세이브로드](https://birthbefore.tistory.com/11)
 
