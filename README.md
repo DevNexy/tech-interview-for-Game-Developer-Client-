@@ -77,7 +77,7 @@
 4. 충돌처리
 5. 오클루젼 컬링
 6. 레이캐스트
-7. [보간법(Slerp, lerp)](https://blog.naver.com/gold_metal/221452400729)[Lerp 와 Slerp 의 차이 - 선형 보간, 구면 선형 보간](https://gnaseel.tistory.com/14)
+7. 보간법 (1) [Slerp, lerp](https://blog.naver.com/gold_metal/221452400729) (2) [차이 - 선형보간, 구면선형보간](https://gnaseel.tistory.com/14)
 8. 코루틴과 Invoke
 9. 모바일을 위한 최적화 기법
 10. [벡터길이 제한 Clamp, ClampMagnitude](https://rank-brothers.com/591/unity-clamp-vector-magnitude/)
