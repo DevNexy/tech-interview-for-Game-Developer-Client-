@@ -93,11 +93,12 @@
 2. 트랜잭션
 3. 정규화
 
-# 🌚 UXUI/그래픽스
+# 🌚 UGUI/그래픽스
 ***
 1. 해상도 설정
-2. BSP, Quadtree, Octree
-3. 리스트3 
+2. orthographicSize
+3. BSP, Quadtree, Octree
+4. 리스트3 
 
 # 🌛 기타 인성 면접
 ***
