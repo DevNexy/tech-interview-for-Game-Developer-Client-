@@ -85,6 +85,7 @@
 12. [스크립트 직렬화](https://everyday-devup.tistory.com/88) [UnityDocu](https://docs.unity3d.com/kr/2018.4/Manual/script-Serialization.html) 
 13. [직렬화 조건](https://rank-brothers.com/660/unity-serializefield/)
 14. [직렬화 후 세이브로드](https://birthbefore.tistory.com/11)
+15. ScriptableObject
 
 # 🌘 네트워크/DB
 ***
