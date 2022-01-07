@@ -86,6 +86,7 @@
 13. [직렬화 조건](https://rank-brothers.com/660/unity-serializefield/)
 14. [직렬화 후 세이브로드](https://birthbefore.tistory.com/11)
 15. ScriptableObject
+16. 카메라 FixedUpdate()
 
 # 🌘 네트워크/DB
 ***
