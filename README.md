@@ -24,7 +24,8 @@
 3. 해시 테이블
 4. 우선순위 큐(힙)
 5. Array
-6. List
+6. 트리
+7. 
 
 # 🌓 알고리즘
 ***
@@ -87,6 +88,7 @@
 14. [직렬화 후 세이브로드](https://birthbefore.tistory.com/11)
 15. ScriptableObject
 16. 카메라 FixedUpdate()
+17. 오브젝트 
 
 # 🌘 네트워크/DB
 ***
