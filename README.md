@@ -62,6 +62,8 @@
 10. [재정의](https://slaner.tistory.com/160?category=546117)
 11. [base](https://slaner.tistory.com/124?category=546117)
 12. [sealed class](https://math-development-geometry.tistory.com/41?category=708726) [docs](https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/sealed) [추상 및 봉인 클래스와 클래스 멤버](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members)
+13. [제너릭컬렉션](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-21-%EC%A0%9C%EB%84%A4%EB%A6%AD-%EC%BB%AC%EB%A0%89%EC%85%98General-Collection?category=341747)
+14. [제네릭](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-15-%EC%A0%9C%EB%84%A4%EB%A6%AD-Generics?category=341747)
 
 
 # 🌖 언어(C++)
@@ -99,7 +101,12 @@
 18. StateMachineBehaviour
 19. NavmeshAgent
 20. Editor 상속
-21. json
+21. [json](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EB%A7%A4%EB%89%B4%EC%96%BC-JSON-%EC%A7%81%EB%A0%AC%ED%99%94?category=341745)
+22. [코루틴](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EB%A7%A4%EB%89%B4%EC%96%BC-%EC%BD%94%EB%A3%A8%ED%8B%B4CoRoutine?category=341745)
+23. [UI PointerDown](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EB%A7%A4%EB%89%B4%EC%96%BC-UI-Button-%EA%B3%84%EC%86%8D-%EB%88%84%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%83%81%ED%83%9C-%ED%99%95%EC%9D%B8?category=341745)
+24. [csv 파일읽고쓰기](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%86%8C%EC%8A%A4-csv-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B0%EA%B8%B0?category=377225)
+25. [링크(LINQ)](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-22-%EB%A7%81%ED%81%ACLINQ-Language-Integrated-Query?category=341747)
+26. [동기 프로그래밍, 비동기 프로그래밍](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-19-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DAsynchronous-Programming?category=341747)
 
 # 🌘 네트워크/DB
 ***
