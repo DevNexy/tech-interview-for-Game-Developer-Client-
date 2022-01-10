@@ -43,9 +43,11 @@
 
 # 🌔 디자인패턴
 ***
-1. 디자인 패턴 개요
-2. 싱글톤 패턴
-3. 리스트3
+1. [디자인패턴 개요](https://math-development-geometry.tistory.com/57?category=708726)
+2. [싱글톤 패턴](https://math-development-geometry.tistory.com/58?category=708726)
+3. [팩토리메소드 패턴](https://math-development-geometry.tistory.com/59?category=708726)
+4. [빌더 패턴](https://math-development-geometry.tistory.com/60?category=708726)
+5. [프로토타입 패턴](https://math-development-geometry.tistory.com/62?category=708726)
  
 # 🌕 언어(C#)
 ***
@@ -59,6 +61,8 @@
 9. [접근한정자](https://slaner.tistory.com/69?category=546117)
 10. [재정의](https://slaner.tistory.com/160?category=546117)
 11. [base](https://slaner.tistory.com/124?category=546117)
+12. [sealed class](https://math-development-geometry.tistory.com/41?category=708726) [docs](https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/sealed) [추상 및 봉인 클래스와 클래스 멤버](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members)
+
 
 # 🌖 언어(C++)
 ***
