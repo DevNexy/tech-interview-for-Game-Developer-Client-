@@ -4,7 +4,7 @@
 
 - ✨Start : 2022/01/02~ ✨
 
-- 신입 게임 클라이언트 프로그래머 기술면접용 지식들을 정리하는 레포입니다.
+- 신입 게임 클라이언트 프로그래머 기술면접용 지식들을 작성하거나 참고 링크를  레포입니다.
 - 모든 설명과 예제 코드를 Unity(C#), C++ 위주
 
 # 🌑 개발상식
@@ -56,6 +56,9 @@
 6. 가비지컬렉터
 7. Delegate, Action
 8. 컬렉션
+9. [접근한정자](https://slaner.tistory.com/69?category=546117)
+10. [재정의](https://slaner.tistory.com/160?category=546117)
+11. [base](https://slaner.tistory.com/124?category=546117)
 
 # 🌖 언어(C++)
 ***
@@ -92,6 +95,7 @@
 18. StateMachineBehaviour
 19. NavmeshAgent
 20. Editor 상속
+21. json
 
 # 🌘 네트워크/DB
 ***
