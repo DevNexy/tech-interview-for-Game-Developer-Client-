@@ -90,6 +90,7 @@
 16. 카메라 FixedUpdate()
 17. 오브젝트
 18. StateMachineBehaviour
+19. NavmeshAgent
 
 # 🌘 네트워크/DB
 ***
