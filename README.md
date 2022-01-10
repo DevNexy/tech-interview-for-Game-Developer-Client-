@@ -91,6 +91,7 @@
 17. 오브젝트
 18. StateMachineBehaviour
 19. NavmeshAgent
+20. Editor 상속
 
 # 🌘 네트워크/DB
 ***
