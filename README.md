@@ -64,6 +64,7 @@
 12. [sealed class](https://math-development-geometry.tistory.com/41?category=708726) [docs](https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/sealed) [추상 및 봉인 클래스와 클래스 멤버](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members)
 13. [제너릭컬렉션](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-21-%EC%A0%9C%EB%84%A4%EB%A6%AD-%EC%BB%AC%EB%A0%89%EC%85%98General-Collection?category=341747)
 14. [제네릭](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-15-%EC%A0%9C%EB%84%A4%EB%A6%AD-Generics?category=341747)
+15. [?? 및 ??=, ?. 연산자](https://velog.io/@jinuku/C-%EB%B0%8F-.-%EC%97%B0%EC%82%B0%EC%9E%90)
 
 
 # 🌖 언어(C++)
