@@ -66,6 +66,7 @@
 14. [제네릭](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-15-%EC%A0%9C%EB%84%A4%EB%A6%AD-Generics?category=341747)
 15. [?? 및 ??=, ?. 연산자](https://velog.io/@jinuku/C-%EB%B0%8F-.-%EC%97%B0%EC%82%B0%EC%9E%90)
 16. [Int32.Parse](https://docs.microsoft.com/ko-kr/dotnet/api/system.int32.parse?view=net-6.0)
+17. 
 
 
 # 🌖 언어(C++)
