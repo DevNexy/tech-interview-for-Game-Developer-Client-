@@ -56,7 +56,7 @@
 4. get set
 5. 코루틴/프로세스/스레드
 6. 가비지컬렉터
-7. Delegate, Action
+7. [Delegate, Action, Func](https://www.youtube.com/watch?v=7H3MHXfFkhI)
 8. 컬렉션
 9. [접근한정자](https://slaner.tistory.com/69?category=546117)
 10. [재정의](https://slaner.tistory.com/160?category=546117)
