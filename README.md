@@ -66,7 +66,7 @@
 14. [제네릭](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-15-%EC%A0%9C%EB%84%A4%EB%A6%AD-Generics?category=341747)
 15. [?? 및 ??=, ?. 연산자](https://velog.io/@jinuku/C-%EB%B0%8F-.-%EC%97%B0%EC%82%B0%EC%9E%90)
 16. [Int32.Parse](https://docs.microsoft.com/ko-kr/dotnet/api/system.int32.parse?view=net-6.0)
-17. 
+17. foreach
 
 
 # 🌖 언어(C++)
@@ -110,6 +110,7 @@
 24. [csv 파일읽고쓰기](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%86%8C%EC%8A%A4-csv-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B0%EA%B8%B0?category=377225)
 25. [링크(LINQ)](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-22-%EB%A7%81%ED%81%ACLINQ-Language-Integrated-Query?category=341747)
 26. [동기 프로그래밍, 비동기 프로그래밍](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-19-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DAsynchronous-Programming?category=341747)
+27. GetComponentInChildren
 
 # 🌘 네트워크/DB
 ***
