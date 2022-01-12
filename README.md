@@ -48,6 +48,7 @@
 3. [팩토리메소드 패턴](https://math-development-geometry.tistory.com/59?category=708726)
 4. [빌더 패턴](https://math-development-geometry.tistory.com/60?category=708726)
 5. [프로토타입 패턴](https://math-development-geometry.tistory.com/62?category=708726)
+6. 옵저버 패턴
  
 # 🌕 언어(C#)
 ***
