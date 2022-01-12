@@ -127,7 +127,7 @@
 1. 해상도 설정
 2. orthographicSize
 3. BSP, Quadtree, Octree
-4. 리스트3 
+4. [UI 구성 요소에 대한 그룹화 및 레이아웃 기술](https://learn.unity.com/tutorial/grouping-and-layout-techniques-for-ui-components-2019-3#)
 
 # 🌛 기타 인성 면접
 ***
