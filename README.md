@@ -66,7 +66,11 @@
 14. [제네릭](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-15-%EC%A0%9C%EB%84%A4%EB%A6%AD-Generics?category=341747)
 15. [?? 및 ??=, ?. 연산자](https://velog.io/@jinuku/C-%EB%B0%8F-.-%EC%97%B0%EC%82%B0%EC%9E%90)
 16. [Int32.Parse](https://docs.microsoft.com/ko-kr/dotnet/api/system.int32.parse?view=net-6.0)
-17. foreach
+17. foreach [문자열을 숫자로 변환하는 방법](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/types/how-to-convert-a-string-to-a-number)
+18. [IsNullOrEmpty](https://docs.microsoft.com/ko-kr/dotnet/api/system.string.isnullorempty?redirectedfrom=MSDN&view=net-6.0#System_String_IsNullOrEmpty_System_String_) [IsNullOrEmpty 프로퍼티 활용예](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=yoohee2018&logNo=220882377003)
+19. [Split을 사용하여 문자열을 분리하는 방법](https://docs.microsoft.com/ko-kr/dotnet/csharp/how-to/parse-strings-using-split#code-try-0)
+20. [trim 메서드 문자열에 지정된 위치에서 공백의 수나 다른 문자를 제거](https://docs.microsoft.com/ko-kr/dotnet/standard/base-types/trimming)
+21. [문자열 기술 종합](https://docs.microsoft.com/ko-kr/dotnet/csharp/how-to/modify-string-contents)
 
 
 # 🌖 언어(C++)
