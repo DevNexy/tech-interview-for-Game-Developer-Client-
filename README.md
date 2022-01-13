@@ -76,6 +76,9 @@
 23. [Split을 사용하여 문자열을 분리하는 방법](https://docs.microsoft.com/ko-kr/dotnet/csharp/how-to/parse-strings-using-split#code-try-0)
 24. [trim 메서드 문자열에 지정된 위치에서 공백의 수나 다른 문자를 제거](https://docs.microsoft.com/ko-kr/dotnet/standard/base-types/trimming)
 25. [문자열 기술 종합](https://docs.microsoft.com/ko-kr/dotnet/csharp/how-to/modify-string-contents)
+26. [동기 비동기 개념 이해](https://kangworld.tistory.com/24?category=955882)
+27. [async await 예제](https://kangworld.tistory.com/25)
+28. [async 및 await를 사용한 비동기 프로그래밍](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/concepts/async/)[설명](https://m.blog.naver.com/cdw0424/222027839176)
 
 
 # 🌖 언어(C++)
@@ -120,6 +123,7 @@
 25. [링크(LINQ)](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-22-%EB%A7%81%ED%81%ACLINQ-Language-Integrated-Query?category=341747)
 26. [동기 프로그래밍, 비동기 프로그래밍](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-19-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DAsynchronous-Programming?category=341747)
 27. GetComponentInChildren
+28. [AsyncOperation](https://docs.unity3d.com/kr/530/ScriptReference/AsyncOperation.html)
 
 # 🌘 네트워크/DB
 ***
