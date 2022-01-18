@@ -24,7 +24,7 @@
 3. 해시 테이블
 4. 우선순위 큐(힙)
 5. Array
-6. 트리
+6. [이진트리](https://bbokkie-recipe.github.io/graph/binarytree/)
 7. 
 
 # 🌓 알고리즘
