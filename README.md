@@ -15,7 +15,7 @@
 4. 클린코드
 5. 리펙토링
 6. 클래스 다이어그램
-7. TDD
+7. [단위테스트](https://docs.microsoft.com/ko-kr/visualstudio/test/using-the-assert-classes?view=vs-2022)  Assert.AreEqual Method
 
 # 🌒 자료구조
 ***
