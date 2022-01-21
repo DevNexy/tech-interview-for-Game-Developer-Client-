@@ -80,7 +80,7 @@
 26. [동기 비동기 개념 이해](https://kangworld.tistory.com/24?category=955882)
 27. [async await 예제](https://kangworld.tistory.com/25)
 28. [async 및 await를 사용한 비동기 프로그래밍](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/concepts/async/)[설명](https://m.blog.naver.com/cdw0424/222027839176)
-
+29. [C#과 C++의](https://youtu.be/6MGe3wG8Fr4)
 
 # 🌖 언어(C++)
 ***
