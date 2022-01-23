@@ -55,35 +55,35 @@
 ***
 1. 상속(+다중 상속의 문제점)
 2. [추상클래스와 인터페이스의 차이점](https://myjamong.tistory.com/150)
-3. 인터페이스
-4. get set
-5. 코루틴/프로세스/스레드
-6. 가비지컬렉터
-7. [Delegate, Event](https://www.youtube.com/watch?v=m9_D0DQ4SGU&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=12)
-8. [Action, Func](https://www.youtube.com/watch?v=7H3MHXfFkhI)
-9. [람다식, 익명메서드](https://www.youtube.com/watch?v=6FomZi4QiRY&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=18)
-10. [컬렉션, LINQ]
-11. [확장메소드](https://youtu.be/2B16TSUyQPU)
-12. [접근한정자](https://slaner.tistory.com/69?category=546117)
-13. [재정의](https://slaner.tistory.com/160?category=546117)
-14. [base](https://slaner.tistory.com/124?category=546117)
-15. [sealed class](https://math-development-geometry.tistory.com/41?category=708726) [docs](https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/sealed) [추상 및 봉인 클래스와 클래스 멤버](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members)
-16. [제너릭컬렉션](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-21-%EC%A0%9C%EB%84%A4%EB%A6%AD-%EC%BB%AC%EB%A0%89%EC%85%98General-Collection?category=341747)
-17. [제네릭](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-15-%EC%A0%9C%EB%84%A4%EB%A6%AD-Generics?category=341747)
-18. [형식매개변수 T](https://www.youtube.com/watch?v=4Oqr24BAhQM&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=17)
-19. [?? 및 ??=, ?. 연산자](https://velog.io/@jinuku/C-%EB%B0%8F-.-%EC%97%B0%EC%82%B0%EC%9E%90)
-20. [Int32.Parse](https://docs.microsoft.com/ko-kr/dotnet/api/system.int32.parse?view=net-6.0)
-21. foreach [문자열을 숫자로 변환하는 방법](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/types/how-to-convert-a-string-to-a-number)
-22. [IsNullOrEmpty](https://docs.microsoft.com/ko-kr/dotnet/api/system.string.isnullorempty?redirectedfrom=MSDN&view=net-6.0#System_String_IsNullOrEmpty_System_String_) [IsNullOrEmpty 프로퍼티 활용예](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=yoohee2018&logNo=220882377003)
-23. [Split을 사용하여 문자열을 분리하는 방법](https://docs.microsoft.com/ko-kr/dotnet/csharp/how-to/parse-strings-using-split#code-try-0)
-24. [trim 메서드 문자열에 지정된 위치에서 공백의 수나 다른 문자를 제거](https://docs.microsoft.com/ko-kr/dotnet/standard/base-types/trimming)
-25. [문자열 기술 종합](https://docs.microsoft.com/ko-kr/dotnet/csharp/how-to/modify-string-contents)
-26. [동기 비동기 개념 이해](https://kangworld.tistory.com/24?category=955882)
-27. [async await 예제](https://kangworld.tistory.com/25)
-28. [async 및 await를 사용한 비동기 프로그래밍](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/concepts/async/)[설명](https://m.blog.naver.com/cdw0424/222027839176)
-29. [C#과 C++의 차이점](https://youtu.be/6MGe3wG8Fr4)
-30. [값(스택)과 참조(힙)의 차이점](https://youtu.be/GvUMF_UM8jU)
-31. [ref와 out의 차이점](https://youtu.be/EHVBOv_VRw4)
+3. [추상클래스와 인터페이스의 차이점](https://youtu.be/qotJ9OcNsPU)
+5. get set
+6. 코루틴/프로세스/스레드
+7. 가비지컬렉터
+8. [Delegate, Event](https://www.youtube.com/watch?v=m9_D0DQ4SGU&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=12)
+9. [Action, Func](https://www.youtube.com/watch?v=7H3MHXfFkhI)
+10. [람다식, 익명메서드](https://www.youtube.com/watch?v=6FomZi4QiRY&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=18)
+11. [컬렉션, LINQ]
+12. [확장메소드](https://youtu.be/2B16TSUyQPU)
+13. [접근한정자](https://slaner.tistory.com/69?category=546117)
+14. [재정의](https://slaner.tistory.com/160?category=546117)
+15. [base](https://slaner.tistory.com/124?category=546117)
+16. [sealed class](https://math-development-geometry.tistory.com/41?category=708726) [docs](https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/sealed) [추상 및 봉인 클래스와 클래스 멤버](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members)
+17. [제너릭컬렉션](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-21-%EC%A0%9C%EB%84%A4%EB%A6%AD-%EC%BB%AC%EB%A0%89%EC%85%98General-Collection?category=341747)
+18. [제네릭](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-15-%EC%A0%9C%EB%84%A4%EB%A6%AD-Generics?category=341747)
+19. [형식매개변수 T](https://www.youtube.com/watch?v=4Oqr24BAhQM&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=17)
+20. [?? 및 ??=, ?. 연산자](https://velog.io/@jinuku/C-%EB%B0%8F-.-%EC%97%B0%EC%82%B0%EC%9E%90)
+21. [Int32.Parse](https://docs.microsoft.com/ko-kr/dotnet/api/system.int32.parse?view=net-6.0)
+22. foreach [문자열을 숫자로 변환하는 방법](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/types/how-to-convert-a-string-to-a-number)
+23. [IsNullOrEmpty](https://docs.microsoft.com/ko-kr/dotnet/api/system.string.isnullorempty?redirectedfrom=MSDN&view=net-6.0#System_String_IsNullOrEmpty_System_String_) [IsNullOrEmpty 프로퍼티 활용예](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=yoohee2018&logNo=220882377003)
+24. [Split을 사용하여 문자열을 분리하는 방법](https://docs.microsoft.com/ko-kr/dotnet/csharp/how-to/parse-strings-using-split#code-try-0)
+25. [trim 메서드 문자열에 지정된 위치에서 공백의 수나 다른 문자를 제거](https://docs.microsoft.com/ko-kr/dotnet/standard/base-types/trimming)
+26. [문자열 기술 종합](https://docs.microsoft.com/ko-kr/dotnet/csharp/how-to/modify-string-contents)
+27. [동기 비동기 개념 이해](https://kangworld.tistory.com/24?category=955882)
+28. [async await 예제](https://kangworld.tistory.com/25)
+29. [async 및 await를 사용한 비동기 프로그래밍](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/concepts/async/)[설명](https://m.blog.naver.com/cdw0424/222027839176)
+30. [C#과 C++의 차이점](https://youtu.be/6MGe3wG8Fr4)
+31. [값(스택)과 참조(힙)의 차이점](https://youtu.be/GvUMF_UM8jU)
+32. [ref와 out의 차이점](https://youtu.be/EHVBOv_VRw4)
 
 # 🌖 언어(C++)
 ***
