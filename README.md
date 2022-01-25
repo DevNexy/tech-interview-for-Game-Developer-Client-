@@ -149,6 +149,7 @@
 2. orthographicSize
 3. BSP, Quadtree, Octree
 4. [UI 구성 요소에 대한 그룹화 및 레이아웃 기술](https://learn.unity.com/tutorial/grouping-and-layout-techniques-for-ui-components-2019-3#)
+5. [고정 렌더링 파이프라인](https://m.blog.naver.com/PostView.naver?blogId=hblee4119&logNo=221927377249&proxyReferer=)
 
 # 🌛 기타 인성 면접
 ***
