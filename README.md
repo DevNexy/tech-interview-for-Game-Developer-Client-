@@ -151,6 +151,10 @@
 4. [UI 구성 요소에 대한 그룹화 및 레이아웃 기술](https://learn.unity.com/tutorial/grouping-and-layout-techniques-for-ui-components-2019-3#)
 5. [고정 렌더링 파이프라인](https://m.blog.naver.com/PostView.naver?blogId=hblee4119&logNo=221927377249&proxyReferer=)
 
+# 🌚 OS 상식
+***
+1. [프로세스와 스레드의 차이](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html)
+
 # 🌛 기타 인성 면접
 ***
 1. 가장 재밌었던/힘들었던 수업/프로젝트는?
