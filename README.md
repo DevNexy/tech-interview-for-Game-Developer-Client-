@@ -151,9 +151,10 @@
 4. [UI 구성 요소에 대한 그룹화 및 레이아웃 기술](https://learn.unity.com/tutorial/grouping-and-layout-techniques-for-ui-components-2019-3#)
 5. [고정 렌더링 파이프라인](https://m.blog.naver.com/PostView.naver?blogId=hblee4119&logNo=221927377249&proxyReferer=)
 
-# 🌚 OS 상식
+# 🌚 OS, CS 상식
 ***
 1. [프로세스와 스레드의 차이](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html)
+2. [프레임워크와 라이브러리 차이](https://engkimbs.tistory.com/673)(https://velog.io/@sy3783/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)(https://m.blog.naver.com/dktmrorl/222121510562)
 
 # 🌛 기타 인성 면접
 ***
