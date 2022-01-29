@@ -27,7 +27,7 @@
 4. 우선순위 큐(힙)
 5. Array
 6. [이진트리](https://bbokkie-recipe.github.io/graph/binarytree/)
-7. 
+7. [원형큐](https://rainbowcode.tistory.com/57?category=945513)
 
 # 🌓 알고리즘
 ***
