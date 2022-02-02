@@ -20,6 +20,7 @@
 9. [Assert.AreEqual Method](https://docs.microsoft.com/ko-kr/visualstudio/test/using-the-assert-classes?view=vs-2022)
 10. [TDD](http://www.ssiso.net/cafe/club/club1/board1/content.php?board_code=jsp%7Cspring&idx=30304&club=jsp&cp=2&cb=1&search=&search_word=)
 11. [DFD와 USD](https://audgnssweet.tistory.com/25)
+12. [데이터베이스 설계](https://velog.io/@inyong_pang/Database-데이터베이스-설계-및-구조))
 
 # 🌒 자료구조
 ***
@@ -140,6 +141,12 @@
 1. TCP와 UDP
 2. 트랜잭션
 3. 정규화
+4. [Pun 기술문서](https://doc.photonengine.com/ko-kr/pun/current/getting-started/pun-intro)
+5. [Pun의 콜백 함수들의 예제](https://mingyu0403.tistory.com/309)
+6. [Pun2] (https://assetstore.unity.com/packages/tools/network/pun-2-free-119922?locale=ko-KR)
+7. [Pun 함수](https://doc-api.photonengine.com/en/pun/v1/functions_func_o.html)
+8. [데이터베이스나 파일시스템의 구현](https://coderzero.tistory.com/entry/유니티-C-강좌-24-파일-입출력)
+9. [유니티에서 JSON 사용하기](https://wergia.tistory.com/164)
 
 # 🌘 언리얼
 ***
@@ -157,6 +164,13 @@
 ***
 1. [프로세스와 스레드의 차이](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html)
 2. [프레임워크와 라이브러리 차이](https://engkimbs.tistory.com/673)[예시](https://velog.io/@sy3783/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)[요약](https://m.blog.naver.com/dktmrorl/222121510562)
+
+# 🌚 UXUI
+***
+1. [UXUI 인터랙션 디자인](https://www.wedesignx.com/knowledge/metaverse-vr-ar-mr-ux-ui-ixd-design)
+2. [권한별 인터페이스에 대한 구현부] (https://docs.microsoft.com/ko-kr/aspnet/web-forms/overview/older-versions-security/roles/assigning-roles-to-users-cs) 
+3. [인터페이스에 대한 이해] (https://www.jetbrains.com/ko-kr/youtrack/features/customization.html)
+
 
 # 🌛 기타 인성 면접
 ***
