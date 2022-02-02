@@ -19,6 +19,7 @@
 8. 클래스 다이어그램
 9. [Assert.AreEqual Method](https://docs.microsoft.com/ko-kr/visualstudio/test/using-the-assert-classes?view=vs-2022)
 10. [TDD](http://www.ssiso.net/cafe/club/club1/board1/content.php?board_code=jsp%7Cspring&idx=30304&club=jsp&cp=2&cb=1&search=&search_word=)
+11. [DFD와 USD](https://audgnssweet.tistory.com/25)
 
 # 🌒 자료구조
 ***
