@@ -13,11 +13,12 @@
 2. 오브젝트
 3. 객체지향 프로그래밍
 4. [객체지향 설계 5원칙](https://imbf.github.io/java/2020/03/14/SOLID%EC%9B%90%EC%B9%99.html)
-5. 클린코드
-6. 리펙토링
-7. 클래스 다이어그램
-8. [Assert.AreEqual Method](https://docs.microsoft.com/ko-kr/visualstudio/test/using-the-assert-classes?view=vs-2022)
-9. [TDD](http://www.ssiso.net/cafe/club/club1/board1/content.php?board_code=jsp%7Cspring&idx=30304&club=jsp&cp=2&cb=1&search=&search_word=)
+5. [설계](https://ahn3330.tistory.com/111)
+6. 클린코드
+7. 리펙토링
+8. 클래스 다이어그램
+9. [Assert.AreEqual Method](https://docs.microsoft.com/ko-kr/visualstudio/test/using-the-assert-classes?view=vs-2022)
+10. [TDD](http://www.ssiso.net/cafe/club/club1/board1/content.php?board_code=jsp%7Cspring&idx=30304&club=jsp&cp=2&cb=1&search=&search_word=)
 
 # 🌒 자료구조
 ***
