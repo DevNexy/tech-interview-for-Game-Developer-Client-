@@ -182,8 +182,8 @@
 # 🌚 UXUI
 ***
 1. [UXUI 인터랙션 디자인](https://www.wedesignx.com/knowledge/metaverse-vr-ar-mr-ux-ui-ixd-design)
-2. [권한별 인터페이스에 대한 구현부] (https://docs.microsoft.com/ko-kr/aspnet/web-forms/overview/older-versions-security/roles/assigning-roles-to-users-cs) 
-3. [인터페이스에 대한 이해] (https://www.jetbrains.com/ko-kr/youtrack/features/customization.html)
+2. [권한별 인터페이스에 대한 구현부](https://docs.microsoft.com/ko-kr/aspnet/web-forms/overview/older-versions-security/roles/assigning-roles-to-users-cs) 
+3. [인터페이스에 대한 이해](https://www.jetbrains.com/ko-kr/youtrack/features/customization.html)
 
 
 # 🌛 기타 인성 면접
