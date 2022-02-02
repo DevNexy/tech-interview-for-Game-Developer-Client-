@@ -20,7 +20,9 @@
 9. [Assert.AreEqual Method](https://docs.microsoft.com/ko-kr/visualstudio/test/using-the-assert-classes?view=vs-2022)
 10. [TDD](http://www.ssiso.net/cafe/club/club1/board1/content.php?board_code=jsp%7Cspring&idx=30304&club=jsp&cp=2&cb=1&search=&search_word=)
 11. [DFD와 USD](https://audgnssweet.tistory.com/25)
-12. [데이터베이스 설계](https://velog.io/@inyong_pang/Database-데이터베이스-설계-및-구조))
+12. [데이터베이스 설계](https://velog.io/@inyong_pang/Database-데이터베이스-설계-및-구조)
+13. [미들웨어의 개념](https://velog.io/@unyoi/인프라-뿌시기1-미들웨어-개념을-알아보자)
+14. [데이터베이스의 종류,특성,장단점](https://lazyer.tistory.com/27)
 
 # 🌒 자료구조
 ***
@@ -143,10 +145,10 @@
 3. 정규화
 4. [Pun 기술문서](https://doc.photonengine.com/ko-kr/pun/current/getting-started/pun-intro)
 5. [Pun의 콜백 함수들의 예제](https://mingyu0403.tistory.com/309)
-6. [Pun2] (https://assetstore.unity.com/packages/tools/network/pun-2-free-119922?locale=ko-KR)
+6. [Pun2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922?locale=ko-KR)
 7. [Pun 함수](https://doc-api.photonengine.com/en/pun/v1/functions_func_o.html)
-8. [데이터베이스나 파일시스템의 구현](https://coderzero.tistory.com/entry/유니티-C-강좌-24-파일-입출력)
-9. [유니티에서 JSON 사용하기](https://wergia.tistory.com/164)
+9. [데이터베이스나 파일시스템의 구현](https://coderzero.tistory.com/entry/유니티-C-강좌-24-파일-입출력)
+10. [유니티에서 JSON 사용하기](https://wergia.tistory.com/164)
 
 # 🌘 언리얼
 ***
