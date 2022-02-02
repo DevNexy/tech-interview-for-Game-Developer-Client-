@@ -23,16 +23,23 @@
 12. [데이터베이스 설계](https://velog.io/@inyong_pang/Database-데이터베이스-설계-및-구조)
 13. [미들웨어의 개념](https://velog.io/@unyoi/인프라-뿌시기1-미들웨어-개념을-알아보자)
 14. [데이터베이스의 종류,특성,장단점](https://lazyer.tistory.com/27)
+15. [코드명명규칙](https://defacto-standard.tistory.com/244)
+16. [순서도](https://linuxism.ustd.ip.or.kr/415)
+17. [프로토콜의 종류](https://helloworld-88.tistory.com/146)
+18. [형상관리](https://goddaehee.tistory.com/158)
 
 # 🌒 자료구조
 ***
-1. 스택
-2. 큐
-3. 해시 테이블
-4. 우선순위 큐(힙)
-5. Array
-6. [이진트리](https://bbokkie-recipe.github.io/graph/binarytree/)
-7. [원형큐](https://rainbowcode.tistory.com/57?category=945513)
+1. [자료구조](https://blog.naver.com/tutorials_korea/221610337593)
+2. [시간복잡도, 공간복잡도](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=raveneer&logNo=221070829018)
+3. 스택
+4. 큐
+5. 해시 테이블
+6. [해시테이블 딕셔너리 차이점](https://hongjinhyeon.tistory.com/87)
+7. 우선순위 큐(힙)
+8. Array
+9. [이진트리](https://bbokkie-recipe.github.io/graph/binarytree/)
+10. [원형큐](https://rainbowcode.tistory.com/57?category=945513)
 
 # 🌓 알고리즘
 ***
@@ -47,6 +54,8 @@
 9. BFS
 10. 다익스트라 알고리즘
 11. 크루스칼 알고리즘
+12. [A* 알고리즘](http://www.gisdeveloper.co.kr/?p=3897)
+
 
 # 🌔 디자인패턴
 ***
@@ -105,7 +114,10 @@
 11. STL
 12. 인라인
 13. 생성자
-14. 
+14. [Call by value(콜 바이 벨류), Call by reference(콜 바이 레퍼런스), Pass by reference(패스 바이 레퍼런스)란?](https://m.blog.naver.com/daum7766/221673227186)
+15. [상속](https://blog.hexabrain.net/173)
+16. [Try Catch](https://blog.hexabrain.net/179)
+17. 
 
 # 🌗 Unity
 ***
