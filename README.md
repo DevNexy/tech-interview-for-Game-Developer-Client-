@@ -72,7 +72,7 @@
 2. [추상클래스와 인터페이스의 차이점](https://myjamong.tistory.com/150)
 3. [추상클래스와 인터페이스의 차이점](https://youtu.be/qotJ9OcNsPU)
 5. get set
-6. 코루틴/프로세스/스레드
+6. [코루틴](https://docs.unity3d.com/kr/530/Manual/Coroutines.html)/프로세스/스레드
 7. [가비지컬렉터](https://hijuworld.tistory.com/32)
 8. [Delegate, Event](https://www.youtube.com/watch?v=m9_D0DQ4SGU&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=12)
 9. [Action, Func](https://www.youtube.com/watch?v=7H3MHXfFkhI)
