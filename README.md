@@ -100,6 +100,7 @@
 31. [값(스택)과 참조(힙)의 차이점](https://youtu.be/GvUMF_UM8jU)
 32. [ref와 out의 차이점](https://youtu.be/EHVBOv_VRw4) [ref vs out](https://rainbowcode.tistory.com/152)
 33. [생성자와 소멸자](https://rainbowcode.tistory.com/154?category=1000103)
+34. [static 정적 필드와 정적 메소드](https://rainbowcode.tistory.com/155)
 
 # 🌖 언어(C++)
 ***
