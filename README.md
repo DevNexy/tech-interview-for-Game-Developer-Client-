@@ -79,7 +79,7 @@
 10. [람다식, 익명메서드](https://www.youtube.com/watch?v=6FomZi4QiRY&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=18)
 11. [컬렉션, LINQ]
 12. [확장메소드](https://youtu.be/2B16TSUyQPU)
-13. [접근한정자](https://slaner.tistory.com/69?category=546117)
+13. [접근한정자](https://slaner.tistory.com/69?category=546117) [은닉성과 접근한정자](https://rainbowcode.tistory.com/158)
 14. [재정의](https://slaner.tistory.com/160?category=546117)
 15. [base](https://slaner.tistory.com/124?category=546117)
 16. [sealed class](https://math-development-geometry.tistory.com/41?category=708726) [docs](https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/sealed) [추상 및 봉인 클래스와 클래스 멤버](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members)
