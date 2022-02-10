@@ -99,6 +99,7 @@
 30. [C#과 C++의 차이점](https://youtu.be/6MGe3wG8Fr4)
 31. [값(스택)과 참조(힙)의 차이점](https://youtu.be/GvUMF_UM8jU)
 32. [ref와 out의 차이점](https://youtu.be/EHVBOv_VRw4) [ref vs out](https://rainbowcode.tistory.com/152)
+33. [생성자와 소멸자](https://rainbowcode.tistory.com/154?category=1000103)
 
 # 🌖 언어(C++)
 ***
