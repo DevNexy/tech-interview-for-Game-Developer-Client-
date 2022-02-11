@@ -105,6 +105,7 @@
 35. [얕은 복사(Shallow Copy), 깊은 복사(Deep Copy)](https://rainbowcode.tistory.com/156)
 36. [this, this() 생성자](https://rainbowcode.tistory.com/157)
 37. [C# 형식 변환 연산을 위한 연산자, is와 as](https://rainbowcode.tistory.com/161)
+38. [메소드 오버라이딩 봉인, sealed overried](https://rainbowcode.tistory.com/163?category=1000103)
 
 # 🌖 언어(C++)
 ***
