@@ -11,7 +11,7 @@
 ***
 1. [클래스](https://rainbowcode.tistory.com/153)
 2. 오브젝트
-3. 객체지향 프로그래밍
+3. 객체지향 프로그래밍(3대 특성 : 은닉성, 상속성, )
 4. [객체지향 설계 5원칙](https://imbf.github.io/java/2020/03/14/SOLID%EC%9B%90%EC%B9%99.html)
 5. [설계](https://ahn3330.tistory.com/111)
 6. 클린코드
@@ -81,7 +81,7 @@
 11. [컬렉션, LINQ]
 12. [확장메소드](https://youtu.be/2B16TSUyQPU)
 13. [접근한정자](https://slaner.tistory.com/69?category=546117) [은닉성과 접근한정자](https://rainbowcode.tistory.com/158)
-14. [재정의](https://slaner.tistory.com/160?category=546117)
+14. [재정의](https://slaner.tistory.com/160?category=546117) [다형성, 오버라이딩, virtual, override](https://rainbowcode.tistory.com/162?category=1000103)
 15. [base](https://slaner.tistory.com/124?category=546117)
 16. [sealed class](https://math-development-geometry.tistory.com/41?category=708726) [docs](https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/sealed) [추상 및 봉인 클래스와 클래스 멤버](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/classes-and-structs/abstract-and-sealed-classes-and-class-members)
 17. [제너릭컬렉션](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-21-%EC%A0%9C%EB%84%A4%EB%A6%AD-%EC%BB%AC%EB%A0%89%EC%85%98General-Collection?category=341747)
