@@ -153,7 +153,7 @@
 26. [동기 프로그래밍, 비동기 프로그래밍](https://coderzero.tistory.com/entry/%EC%9C%A0%EB%8B%88%ED%8B%B0-C-%EA%B0%95%EC%A2%8C-19-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DAsynchronous-Programming?category=341747)
 27. GetComponentInChildren
 28. [AsyncOperation](https://docs.unity3d.com/kr/530/ScriptReference/AsyncOperation.html)
-29. [어셈블리 정의1](https://docs.unity3d.com/kr/2021.2/Manual/ScriptCompilationAssemblyDefinitionFiles.html) [어셈블리 정의2](https://drehzr.tistory.com/1190)
+29. [어셈블리 정의1](https://docs.unity3d.com/kr/2021.2/Manual/ScriptCompilationAssemblyDefinitionFiles.html) [어셈블리 정의2](https://drehzr.tistory.com/1190) [어셈블리 정의3](https://docs.unity3d.com/kr/2018.4/Manual/ScriptCompilationAssemblyDefinitionFiles.html)
 
 # 🌘 네트워크/DB
 ***
