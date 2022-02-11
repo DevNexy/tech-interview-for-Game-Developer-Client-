@@ -27,6 +27,7 @@
 16. [순서도](https://linuxism.ustd.ip.or.kr/415)
 17. [프로토콜의 종류](https://helloworld-88.tistory.com/146)
 18. [형상관리](https://goddaehee.tistory.com/158)
+19. [.NET 어셈블리](https://docs.microsoft.com/ko-kr/dotnet/standard/assembly/)
 
 # 🌒 자료구조
 ***
