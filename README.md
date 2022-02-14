@@ -108,6 +108,7 @@
 37. [C# 형식 변환 연산을 위한 연산자, is와 as](https://rainbowcode.tistory.com/161)
 38. [메소드 오버라이딩 봉인, sealed overried](https://rainbowcode.tistory.com/163?category=1000103)
 39. [읽기 전용 필드, readonly](https://rainbowcode.tistory.com/164)
+40. [구조체(클래스와의 차이점),readonly 구조체](https://rainbowcode.tistory.com/168)
 
 # 🌖 언어(C++)
 ***
