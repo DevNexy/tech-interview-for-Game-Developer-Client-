@@ -79,7 +79,7 @@
 9. [Action, Func](https://www.youtube.com/watch?v=7H3MHXfFkhI)
 10. [람다식, 익명메서드](https://www.youtube.com/watch?v=6FomZi4QiRY&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=18)
 11. [컬렉션, LINQ]
-12. [확장메소드](https://youtu.be/2B16TSUyQPU)
+12. [확장메소드](https://youtu.be/2B16TSUyQPU) [확장메소드 예제](https://rainbowcode.tistory.com/167)
 13. [접근한정자](https://slaner.tistory.com/69?category=546117)  [은닉성과 접근한정자](https://rainbowcode.tistory.com/158)
 14. [재정의](https://slaner.tistory.com/160?category=546117) [다형성, 오버라이딩, virtual, override](https://rainbowcode.tistory.com/162?category=1000103)
 15. [base](https://slaner.tistory.com/124?category=546117)
