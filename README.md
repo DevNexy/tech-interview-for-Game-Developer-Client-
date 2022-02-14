@@ -13,21 +13,22 @@
 2. 오브젝트
 3. 객체지향 프로그래밍(3대 특성 : 은닉성, 상속성, )
 4. [객체지향 설계 5원칙](https://imbf.github.io/java/2020/03/14/SOLID%EC%9B%90%EC%B9%99.html)
-5. [설계](https://ahn3330.tistory.com/111)
-6. 클린코드
-7. 리펙토링
-8. 클래스 다이어그램
-9. [Assert.AreEqual Method](https://docs.microsoft.com/ko-kr/visualstudio/test/using-the-assert-classes?view=vs-2022)
-10. [TDD](http://www.ssiso.net/cafe/club/club1/board1/content.php?board_code=jsp%7Cspring&idx=30304&club=jsp&cp=2&cb=1&search=&search_word=)
-11. [DFD와 USD](https://audgnssweet.tistory.com/25)
-12. [데이터베이스 설계](https://velog.io/@inyong_pang/Database-데이터베이스-설계-및-구조)
-13. [미들웨어의 개념](https://velog.io/@unyoi/인프라-뿌시기1-미들웨어-개념을-알아보자)
-14. [데이터베이스의 종류,특성,장단점](https://lazyer.tistory.com/27)
-15. [코드명명규칙](https://defacto-standard.tistory.com/244)
-16. [순서도](https://linuxism.ustd.ip.or.kr/415)
-17. [프로토콜의 종류](https://helloworld-88.tistory.com/146)
-18. [형상관리](https://goddaehee.tistory.com/158)
-19. [.NET 어셈블리](https://docs.microsoft.com/ko-kr/dotnet/standard/assembly/)
+5. [오버로딩, 오버라이딩을 통해 다형성 구현하기](https://gbsb.tistory.com/235)
+6. [설계](https://ahn3330.tistory.com/111)
+7. 클린코드
+8. 리펙토링
+9. 클래스 다이어그램
+10. [Assert.AreEqual Method](https://docs.microsoft.com/ko-kr/visualstudio/test/using-the-assert-classes?view=vs-2022)
+11. [TDD](http://www.ssiso.net/cafe/club/club1/board1/content.php?board_code=jsp%7Cspring&idx=30304&club=jsp&cp=2&cb=1&search=&search_word=)
+12. [DFD와 USD](https://audgnssweet.tistory.com/25)
+13. [데이터베이스 설계](https://velog.io/@inyong_pang/Database-데이터베이스-설계-및-구조)
+14. [미들웨어의 개념](https://velog.io/@unyoi/인프라-뿌시기1-미들웨어-개념을-알아보자)
+15. [데이터베이스의 종류,특성,장단점](https://lazyer.tistory.com/27)
+16. [코드명명규칙](https://defacto-standard.tistory.com/244)
+17. [순서도](https://linuxism.ustd.ip.or.kr/415)
+18. [프로토콜의 종류](https://helloworld-88.tistory.com/146)
+19. [형상관리](https://goddaehee.tistory.com/158)
+20. [.NET 어셈블리](https://docs.microsoft.com/ko-kr/dotnet/standard/assembly/)
 
 # 🌒 자료구조
 ***
