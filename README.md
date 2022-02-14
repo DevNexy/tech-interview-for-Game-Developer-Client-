@@ -72,6 +72,7 @@
 1. 상속(+다중 상속의 문제점)
 2. [추상클래스와 인터페이스의 차이점](https://myjamong.tistory.com/150)
 3. [추상클래스와 인터페이스의 차이점](https://youtu.be/qotJ9OcNsPU)
+4. [필드, 멤버, 지역변수, 정적필드, 정적 메소드 개념 정리](https://rainbowcode.tistory.com/169)
 5. get set
 6. [코루틴](https://docs.unity3d.com/kr/530/Manual/Coroutines.html)/프로세스/스레드
 7. [가비지컬렉터](https://hijuworld.tistory.com/32)
