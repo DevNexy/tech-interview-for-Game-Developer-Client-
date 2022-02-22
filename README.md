@@ -2,7 +2,7 @@
 게임 클라이언트 프로그래머 전공 지식 &amp; 기술 면접 노트
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=fdcb6e&height=150&section=header&text=Tech%20interview%20for%20Game-Developer(Client)🍕&fontSize=25&fontColor=e17055)
 
-- ✨Start : 2022/01/02~ ✨
+- ✨Start : 2022/01/02~  ✨
 
 - 신입 게임 클라이언트 프로그래머 기술면접용 지식들을 작성하거나 참고 링크를 작성한 레포입니다.
 - 모든 설명과 예제 코드는 Unity(C#), C++ 위주로 작성되었습니다.
