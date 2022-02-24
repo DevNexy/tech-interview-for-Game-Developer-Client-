@@ -10,7 +10,7 @@
 # 🌑 개발상식
 *** 
 1. [클래스](https://rainbowcode.tistory.com/153)
-2. 오브젝트
+2. 오브젝트 
 3. 객체지향 프로그래밍(3대 특성 : 은닉성, 상속성, )
 4. [객체지향 설계 5원칙](https://imbf.github.io/java/2020/03/14/SOLID%EC%9B%90%EC%B9%99.html)
 5. [오버로딩, 오버라이딩을 통해 다형성 구현하기](https://gbsb.tistory.com/235)
