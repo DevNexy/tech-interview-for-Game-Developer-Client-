@@ -1,4 +1,4 @@
-# tech-interview-for-Game-Developer-Client-
+# tech-interview-for-Game-Developer-Client- 
 게임 클라이언트 프로그래머 전공 지식 &amp; 기술 면접 노트 
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=fdcb6e&height=150&section=header&text=Tech%20interview%20for%20Game-Developer(Client)🍕&fontSize=25&fontColor=e17055)
 
