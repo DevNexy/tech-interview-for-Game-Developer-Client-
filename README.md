@@ -77,7 +77,8 @@
 4. [빌더 패턴](https://math-development-geometry.tistory.com/60?category=708726) ⭐   
 5. [프로토타입 패턴](https://math-development-geometry.tistory.com/62?category=708726) ⭐   
 6. [옵저버 패턴](https://ko.wikipedia.org/wiki/%EC%98%B5%EC%84%9C%EB%B2%84_%ED%8C%A8%ED%84%B4) ⭐⭐  
-7. [전략 패턴](https://bbokkie-recipe.github.io/unitydesignpattern/StrategyPatternInUnity/) ⭐        
+7. [전략 패턴](https://bbokkie-recipe.github.io/unitydesignpattern/StrategyPatternInUnity/) ⭐    
+8. [심플 팩토리 패턴](https://bbokkie-recipe.github.io/unitydesignpattern/SimpleFactoryPatternInUnity/)⭐            
  
 # 🌕 언어(C#)
 ***
