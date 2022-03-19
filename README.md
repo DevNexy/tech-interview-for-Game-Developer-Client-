@@ -6,7 +6,7 @@
 
 - 신입 게임 클라이언트 프로그래머 기술면접용 지식들을 작성하거나 참고 링크를 작성한 레포입니다.   
 - (본 레포를 정리하며 좋은 일이 많이 있었습니다. 사실 취업 후 본 레포를 수정할 계획이 없었지만 찾아주시는 분들이 꾸준히 있어 정보 공유의 순기능을 믿기에 계속 업데이트할 생각입니다.)   
-- 모든 설명과 예제 코드는 Unity(C#), C++ 위주로 작성되었습니다.   
+- 모든 설명과 예제 코드는 Unity(C#)위주로 작성되었습니다. C++ 관련 항목들은 중요도를 표기 못 점 양해부탁드립니다.    
    
 - 수정 중(⭐⭐⭐⭐⭐위주로 개념을 익힐 것을 추천드립니다.)   
 - ⭐ : 언급하게 될 가능성 낮음   
@@ -38,12 +38,12 @@
 17. [순서도](https://linuxism.ustd.ip.or.kr/415) ⭐   
 18. [프로토콜의 종류](https://helloworld-88.tistory.com/146) ⭐   
 19. [형상관리](https://goddaehee.tistory.com/158) ⭐   
-20. [.NET 어셈블리](https://docs.microsoft.com/ko-kr/dotnet/standard/assembly/)
+20. [.NET 어셈블리](https://docs.microsoft.com/ko-kr/dotnet/standard/assembly/)⭐⭐
 
 # 🌒 자료구조
 ***
-1. [자료구조](https://blog.naver.com/tutorials_korea/221610337593)
-2. [시간복잡도, 공간복잡도](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=raveneer&logNo=221070829018)
+1. [자료구조](https://blog.naver.com/tutorials_korea/221610337593) ⭐⭐⭐⭐⭐   
+2. [시간복잡도, 공간복잡도](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=raveneer&logNo=221070829018) ⭐   
 3. 스택 ⭐⭐⭐⭐   
 4. 큐 ⭐⭐⭐⭐   
 5. 해시 테이블 ⭐⭐⭐
