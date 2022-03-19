@@ -25,7 +25,7 @@
 4. [객체지향 설계 5원칙](https://imbf.github.io/java/2020/03/14/SOLID%EC%9B%90%EC%B9%99.html)
 5. [오버로딩, 오버라이딩을 통해 다형성 구현하기](https://gbsb.tistory.com/235) ⭐⭐⭐⭐⭐   
 6. [설계](https://ahn3330.tistory.com/111)
-7. 클린코드 ⭐⭐   
+7. 클린코드 ⭐⭐⭐⭐⭐   
 8. 리펙토링 ⭐   
 9. 클래스 다이어그램 ⭐   
 10. [Assert.AreEqual Method](https://docs.microsoft.com/ko-kr/visualstudio/test/using-the-assert-classes?view=vs-2022) ⭐   
