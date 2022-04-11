@@ -89,7 +89,7 @@
 5. get set
 6. [코루틴](https://docs.unity3d.com/kr/530/Manual/Coroutines.html)/프로세스/스레드 ⭐⭐⭐⭐⭐   
 7. [가비지컬렉터](https://hijuworld.tistory.com/32) ⭐⭐⭐⭐⭐   
-8. [Delegate, Event](https://www.youtube.com/watch?v=m9_D0DQ4SGU&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=12) ⭐⭐⭐   
+8. [Delegate, Event](https://www.youtube.com/watch?v=m9_D0DQ4SGU&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=12)  [델리게이트](https://rainbowcode.tistory.com/60)⭐⭐⭐   
 9. [Action, Func](https://www.youtube.com/watch?v=7H3MHXfFkhI) ⭐⭐⭐   
 10. [람다식, 익명메서드](https://www.youtube.com/watch?v=6FomZi4QiRY&list=PLUZ5gNInsv_O7XRpaNQIC9D5uhMZmTYAf&index=18) ⭐⭐⭐   
 11. [컬렉션, LINQ]
